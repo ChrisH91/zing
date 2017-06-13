@@ -32,9 +32,8 @@
             // Service1
             // 
             this.ServiceName = "Zing";
-
         }
-
+  
         #endregion
     }
 }

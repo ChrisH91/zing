@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zing", "Zing\Zing.csproj", "{CCA7CFA3-0C74-430F-A35C-9397537AA813}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZingLib", "ZingLib\ZingLib.csproj", "{33B6AD04-2813-46FC-9887-A294A6077584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZingRunner", "ZingRunner\ZingRunner.csproj", "{BDEB21F7-71A9-48AD-AB57-58C427EB3C1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CCA7CFA3-0C74-430F-A35C-9397537AA813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCA7CFA3-0C74-430F-A35C-9397537AA813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCA7CFA3-0C74-430F-A35C-9397537AA813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B6AD04-2813-46FC-9887-A294A6077584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B6AD04-2813-46FC-9887-A294A6077584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B6AD04-2813-46FC-9887-A294A6077584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B6AD04-2813-46FC-9887-A294A6077584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEB21F7-71A9-48AD-AB57-58C427EB3C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEB21F7-71A9-48AD-AB57-58C427EB3C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEB21F7-71A9-48AD-AB57-58C427EB3C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEB21F7-71A9-48AD-AB57-58C427EB3C1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
