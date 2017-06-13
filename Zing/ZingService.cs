@@ -10,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace Zing
 {
-    public partial class Service1 : ServiceBase
+    public partial class ZingService : ServiceBase
     {
-        public Service1()
+        public ZingService()
         {
             InitializeComponent();
         }

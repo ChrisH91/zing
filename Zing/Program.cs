@@ -17,7 +17,7 @@ namespace Zing
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new ZingService()
             };
             ServiceBase.Run(ServicesToRun);
         }
