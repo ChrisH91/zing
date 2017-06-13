@@ -19,6 +19,7 @@ namespace Zing
 
         protected override void OnStart(string[] args)
         {
+            var miner = new Miner();
         }
 
         protected override void OnStop()
